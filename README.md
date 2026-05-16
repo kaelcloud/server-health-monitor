@@ -35,6 +35,7 @@
 
 ## 📁 Project Structure
 
+```
 server-health-monitor/
 ├── scripts/
 │   ├── check_cpu.sh          # CPU usage monitoring
@@ -45,6 +46,7 @@ server-health-monitor/
 ├── monitor.sh                # Main orchestration script
 ├── config.conf               # Threshold configuration
 └── README.md
+```
 
 ---
 
