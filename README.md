@@ -10,11 +10,11 @@
 
 ## 📸 Demo Output
 
-### ✅ All Systems Healthy
-![Healthy Output](Healthy.JPG)
+### ⚠️ Warning Detected (Log Errors)
+![Warning Output](Healthy.JPG)
 
-### ⚠️ Warning Detected
-![Warning Output](Warning.JPG)
+### ❌ Critical Warning (Resource Threshold Exceeded)
+![Critical Output](Warning.JPG)
 
 ---
 
